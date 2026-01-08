@@ -1,0 +1,10 @@
+﻿--- Optimization Test (Storage: temp_opt_kb) ---
+Ingesting large document...
+Querying: 'simulate'
+Chunks Retrieved: 1 (Expected: 1)
+Original Context Length: 27000 chars
+Final Context Length: 1015 chars
+
+[SUCCESS] Optimization Logic Verified.
+The prompt is now SAFE for small local models.
+

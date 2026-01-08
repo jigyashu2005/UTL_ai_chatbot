@@ -1,0 +1,29 @@
+[
+  {
+    "text": "Standard Operating Procedure (PDF).\nAlways wear safety gear.\nPage 1.",
+    "metadata": {
+      "chunk_id": 0,
+      "file_name": "test_doc.pdf",
+      "file_type": ".pdf",
+      "page_number": 1
+    }
+  },
+  {
+    "text": "Employee Handbook (DOCX).\nPolicy 1: Work hours are 9 to 5.",
+    "metadata": {
+      "chunk_id": 1,
+      "file_name": "test_doc.docx",
+      "file_type": ".docx",
+      "page_number": 1
+    }
+  },
+  {
+    "text": "Meeting Notes (TXT).\nDiscussed project timeline.",
+    "metadata": {
+      "chunk_id": 2,
+      "file_name": "test_doc.txt",
+      "file_type": ".txt",
+      "page_number": 1
+    }
+  }
+]

@@ -1,0 +1,9 @@
+openai
+python-dotenv
+requests
+streamlit
+fastapi
+uvicorn
+pydantic
+transformers
+torch

@@ -1,0 +1,25 @@
+﻿--- RAG System Demo (Storage: demo_final_kb) ---
+Ingesting 2 documents...
+Loading SentenceTransformer (all-MiniLM-L6-v2)...
+PDF Loaded: demo_alpha.pdf (153 chars)
+DOCX Loaded: demo_hr.docx (66 chars)
+Index built with 2 vectors.
+
+[Q1]: 'What is the code for Project Alpha?'
+
+[RAG Retrieval] Query: 'What is the code for Project Alpha?'
+------------------------------------------------------------
+SCORE      | SOURCE                         | PAGE 
+------------------------------------------------------------
+1.0964     | demo_alpha.pdf                 | 1    
+------------------------------------------------------------
+
+[Q2]: 'Can I work from home?'
+
+[RAG Retrieval] Query: 'Can I work from home?'
+------------------------------------------------------------
+SCORE      | SOURCE                         | PAGE 
+------------------------------------------------------------
+1.1826     | demo_hr.docx                   | 1    
+------------------------------------------------------------
+
